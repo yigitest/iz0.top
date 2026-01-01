@@ -1,0 +1,237 @@
+baseURL: "https://www.iz0.top/"
+title: iz0.top
+copyright: "© [iz0.top](https://www.iz0.top/)"
+theme: ["PaperMod"]
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+pygmentsUseClasses: true
+mainsections: ["posts", "papermod"]
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+pagination:
+  disableAliases: false
+  pagerSize: 5
+
+languages:
+  en:
+    languageName: "English"
+    weight: 1
+    taxonomies:
+      category: categories
+      tag: tags
+      series: series
+    menu:
+      main:
+        - name: Archive
+          url: archives
+          weight: 5
+        - name: Search
+          url: search/
+          weight: 6
+        - identifier: tags
+          name: Tags
+          url: tags/
+          weight: 7
+        - identifier: categories
+          name: Categories
+          url: categories/
+          weight: 8
+        - identifier: series
+          name: Series
+          url: series/
+          weight: 9
+
+  tr:
+    languageName: "Türkçe"
+    weight: 2
+    taxonomies:
+      category: kategoriler
+      tag: etiketler
+      series: seriler
+      search: arama
+      archive: arsiv
+    menu:
+      main:
+        - name: Arşiv
+          url: arsiv/
+          weight: 5
+        - name: Arama
+          url: arama/
+          weight: 6
+        - identifier: tags
+          name: Etiketler
+          url: etiketler/
+          weight: 7
+        - identifier: trcategories
+          name: Kategoriler
+          url: kategoriler/
+          weight: 8
+        - identifier: trseries
+          name: Seriler
+          url: seriler/
+          weight: 9
+
+    # custom params for each language should be under [langcode].parms - hugo v0.120.0
+    # params:
+    #   languageAltTitle: French
+    #   profileMode:
+    #     enabled: true
+    #     title: PaperMod
+    #     imageUrl: "https://raw.githubusercontent.com/googlefonts/noto-emoji/master/svg/emoji_u1f9d1_1f3fb_200d_1f4bb.svg"
+    #     imageTitle: ProfileMode image
+    #     # imageWidth: 120
+    #     # imageHeight: 120
+    #     subtitle: "☄️ Fast | ☁️ Fluent | 🌙 Smooth | 📱 Responsive"
+    #     buttons:
+    #       - name: Blog
+    #         url: posts
+    #       - name: Profile Mode
+    #         url: https://github.com/adityatelange/hugo-PaperMod/wiki/Features#profile-mode
+
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  description: "iz0.top is the personal blog of me. Sharing knowledge about programming and technology."
+  author: ["iz0.top"]
+  keywords: [Blog, Portfolio, Programming, Technology, Tutorials]
+
+  defaultTheme: auto
+  disableThemeToggle: false
+
+  DateFormat: "2026-01-30"
+
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: true
+  tocopen: false  
+  displayFullLangName: true
+  ShowAllPagesInArchive: true
+  ShowPageNums: true
+  
+  # comments: false
+
+  # open graph images
+  images: ["images/papermod-cover.png"]
+
+  profileMode:
+    enabled: false
+    title: PaperMod
+    imageUrl: "#"
+    imageTitle: my image
+    # imageWidth: 120
+    # imageHeight: 120
+    buttons:
+      - name: Archives
+        url: archives
+      - name: Tags
+        url: tags
+
+ # home-info mode
+  homeInfoParams:
+    Title: "Hi there \U0001F44B"
+    Content: "Welcome to my blog"
+
+  socialIcons:
+    - name: github
+      title: View Source on Github
+      url: "https://github.com/adityatelange/hugo-PaperMod"
+
+
+  editPost:
+    URL: "https://github.com/yigitest/iz0.top/tree/main/content"
+    Text: "Suggest Changes"
+    appendFilePath: true
+
+  # label:
+  # iconSVG: '<svg xmlns="http://www.w3.org/2000/svg" height="25" viewBox="0 -960 960 960" fill="currentColor"><path d="M320-240h320v-80H320v80Zm0-160h320v-80H320v80ZM240-80q-33 0-56.5-23.5T160-160v-640q0-33 23.5-56.5T240-880h320l240 240v480q0 33-23.5 56.5T720-80H240Zm280-520v-200H240v640h480v-440H520ZM240-800v200-200 640-640Z"/></svg>'
+  # text: "Home"
+  # icon: icon.png
+  # iconHeight: 35
+
+  # analytics:
+  #     google:
+  #         SiteVerificationTag: "XYZabc"
+
+  assets:
+    disableHLJS: true
+  #     favicon: "<link / abs url>"
+  #     favicon16x16: "<link / abs url>"
+  #     favicon32x32: "<link / abs url>"
+  #     apple_touch_icon: "<link / abs url>"
+  #     safari_pinned_tab: "<link / abs url>"
+
+  cover:
+    linkFullImages: true
+  #     hidden: true # hide everywhere but not in structured data
+  #     hiddenInList: true # hide on list pages and home
+  #     hiddenInSingle: true # hide on single page
+
+  fuseOpts:
+      isCaseSensitive: false
+      shouldSort: true
+      location: 0
+      distance: 1000
+      threshold: 0.4
+      minMatchCharLength: 0
+      keys: ["title", "permalink", "summary", "content"]
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    noClasses: false
+    # anchorLineNos: true
+    # codeFences: true
+    # guessSyntax: true
+    # lineNos: true
+    # style: monokai
+
+# privacy:
+#   vimeo:
+#     disabled: false
+#     simple: true
+
+#   twitter:
+#     disabled: false
+#     enableDNT: true
+#     simple: true
+
+#   instagram:
+#     disabled: false
+#     simple: true
+
+#   youtube:
+#     disabled: false
+#     privacyEnhanced: true
+
+services:
+  instagram:
+    disableInlineCSS: true
+  x:
+    disableInlineCSS: true
