@@ -70,11 +70,11 @@ languages:
           name: Etiketler
           url: etiketler/
           weight: 7
-        - identifier: trcategories
+        - identifier: categories
           name: Kategoriler
           url: kategoriler/
           weight: 8
-        - identifier: trseries
+        - identifier: series
           name: Seriler
           url: seriler/
           weight: 9
