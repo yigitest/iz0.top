@@ -104,7 +104,7 @@ outputs:
     - JSON
 
 params:
-  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  env: production
   description: "iz0.top is the personal blog of me. Sharing knowledge about programming and technology."
   author: ["iz0.top"]
   keywords: [Blog, Portfolio, Programming, Technology, Tutorials]
@@ -114,17 +114,17 @@ params:
 
   DateFormat: "2026-01-30"
 
-  ShowReadingTime: true
+  ShowReadingTime: false
   ShowShareButtons: true
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
-  ShowWordCount: true
+  ShowWordCount: false
   ShowRssButtonInSectionTermList: true
   UseHugoToc: true
   disableSpecial1stPost: false
   disableScrollToTop: false
-  comments: false
+  comments: true
   hidemeta: false
   hideSummary: false
   showtoc: true
@@ -133,7 +133,6 @@ params:
   ShowAllPagesInArchive: true
   ShowPageNums: true
   
-  # comments: false
 
   # open graph images
   images: ["images/papermod-cover.png"]
@@ -162,10 +161,10 @@ params:
       url: "https://github.com/adityatelange/hugo-PaperMod"
 
 
-  editPost:
-    URL: "https://github.com/yigitest/iz0.top/tree/main/content"
-    Text: "Suggest Changes"
-    appendFilePath: true
+  # editPost:
+  #   URL: "https://github.com/yigitest/iz0.top/tree/main/content"
+  #   Text: "Suggest Changes"
+  #   appendFilePath: true
 
   # label:
   # iconSVG: '<svg xmlns="http://www.w3.org/2000/svg" height="25" viewBox="0 -960 960 960" fill="currentColor"><path d="M320-240h320v-80H320v80Zm0-160h320v-80H320v80ZM240-80q-33 0-56.5-23.5T160-160v-640q0-33 23.5-56.5T240-880h320l240 240v480q0 33-23.5 56.5T720-80H240Zm280-520v-200H240v640h480v-440H520ZM240-800v200-200 640-640Z"/></svg>'
@@ -235,3 +234,5 @@ services:
     disableInlineCSS: true
   x:
     disableInlineCSS: true
+  disqus:
+    shortname: iz0-top
