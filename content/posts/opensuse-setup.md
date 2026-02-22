@@ -16,15 +16,15 @@ seriler: []
 [opensuse.org/Flatpak](https://en.opensuse.org/Flatpak#System_Level_Setup)
 
 ```bash
-user $ flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
+flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
 
-user $ flatpak update
+flatpak update
 ```
 
 #### automatic update services
 
 ```bash
-user $ sudo systemctl edit --full --force flatpak-system-update.service
+sudo systemctl edit --full --force flatpak-system-update.service
 ```
 
 ```
@@ -40,7 +40,7 @@ ExecStart=/usr/bin/flatpak --system uninstall --unused -y --noninteractive ; /us
 ```
 
 ```bash
-user $ sudo systemctl edit --full --force flatpak-system-update.timer
+sudo systemctl edit --full --force flatpak-system-update.timer
 ```
 
 ```
@@ -59,7 +59,7 @@ WantedBy=timers.target
 ```
 
 ```bash
-user $ sudo systemctl daemon-reload && sudo systemctl enable --now flatpak-system-update.timer
+sudo systemctl daemon-reload && sudo systemctl enable --now flatpak-system-update.timer
 ```
 
 ### Syncthing installation
@@ -92,3 +92,19 @@ sudo zypper install fish
 sudo zypper install opi
 opi codecs
 ```
+
+### /etc/hosts
+
+Add computer's hostname to /etc/hosts file. 
+
+```
+hostnamectl
+
+>> Static hostname: thinkpad1235u
+
+sudo nano /etc/hosts
+
+>> 127.0.0.1 thinkpad1235u
+```
+
+[https://bugzilla.opensuse.org/show_bug.cgi?id=1214043#c9](https://bugzilla.opensuse.org/show_bug.cgi?id=1214043#c9)
