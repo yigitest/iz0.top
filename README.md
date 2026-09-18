@@ -1,4 +1,13 @@
+## 
 
+```
+hugo new docs/example-page.md
 
+hugo new docs/parent-directory/doc-three.md
+```
 
-git submodule update --init --recursive # needed when you reclone your repo (submodules may not get cloned automatically)
+### Preview site
+
+```
+hugo server -D
+```
