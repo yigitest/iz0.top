@@ -1,13 +1,11 @@
 ---
 title: Code Snippets
-weight: 200
+weight: 1000
 params:
   bookHidden: false
   bookToC: true
   bookCollapseSection: true
   bookFlatSection: false
-#  bookIcon:
+  bookIcon: computer
 #  bookHref:
 ---
-
-# Code Snippets

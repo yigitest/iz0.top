@@ -31,11 +31,11 @@ enableRobotsTXT = true
   page = ['html', 'txt']
   section = ['html', 'txt']
 
-# [menu]
-# [[menu.home]]
-#   name = 'Documentation'
-#   pageRef = '/docs/getting-started/introduction'
-#   weight = 2
+ [menu]
+ [[menu.home]]
+   name = 'Docs'
+   pageRef = '/docs/welcome'
+   weight = 2
 
 # [[menu.home]]
 #   name = 'Showcases'
