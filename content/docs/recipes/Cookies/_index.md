@@ -1,10 +1,10 @@
 ---
-title: Smoothie
-weight: 110
+title: Cookies
+weight: 103
 params:
   bookHidden: false
   bookToC: true
   bookCollapseSection: false
   bookFlatSection: false
-  bookIcon: blender
+  bookIcon: cookie
 ---
