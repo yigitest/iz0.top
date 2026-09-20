@@ -9,5 +9,3 @@ bookFlatSection: false
 bookIcon: bowl-spoon
 #  bookHref:
 ---
-
-## Recipes

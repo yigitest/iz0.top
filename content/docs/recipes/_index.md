@@ -9,5 +9,3 @@ params:
   bookIcon: tools-kitchen-2
 #  bookHref:
 ---
-
-## Recipes
