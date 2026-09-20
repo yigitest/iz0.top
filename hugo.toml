@@ -10,6 +10,8 @@ disablePathToLower = true
 # Enable git metadata for "Last Modified" footer
 enableGitInfo = true
 
+enableRobotsTXT = true
+
 # Required for mermaid and katex shortcodes
 [markup.goldmark.renderer]
   unsafe = true
