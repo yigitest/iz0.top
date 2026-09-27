@@ -100,7 +100,7 @@ BookSearch = true
 # By default partials/docs/comments.html includes Disqus template
 # See https://gohugo.io/content-management/comments/#configure-disqus
 # Can be overwritten by same param in page frontmatter
-BookComments = false
+BookComments = true
 
 # /!\ This is an experimental feature, might be removed or changed at any time
 # (Optional, experimental, default false) Enables portable links and link checks in markdown pages.
@@ -118,3 +118,11 @@ BookServiceWorker = 'false'
 # /!\ This is an experimental feature, might be removed or changed at any time
 # (Optional, experimental, default false) Enables a drop-down menu for translations only if a translation is present.
 BookTranslatedOnly = false
+
+[params.giscus]
+repo = "yigitest/iz0.top"
+repoID = "R_kgDOQyAlkA"
+category = "comments-on-blog"
+categoryID = "DIC_kwDOQyAlkM4DGgp1"
+theme = "preferred_color_scheme"
+
