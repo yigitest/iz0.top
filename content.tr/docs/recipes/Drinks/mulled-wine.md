@@ -1,3 +1,7 @@
+---
+title: "Sıcak Şarap (Mulled Wine)"
+---
+
 # Sıcak Şarap (Mulled Wine)
 
 > [!NOTE]

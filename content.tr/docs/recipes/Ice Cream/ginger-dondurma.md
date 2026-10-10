@@ -1,3 +1,7 @@
+---
+title: "Zencefilli Dondurma (Ginger)"
+---
+
 # Ginger Dondurma (Zencefilli Dondurma)
 
 > [!NOTE]

@@ -8,4 +8,4 @@ params:
   bookFlatSection: false
 ---
 
-## Recipes
+## Tarifler

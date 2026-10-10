@@ -1,3 +1,7 @@
+---
+title: "Muzlu Whey Protein Dondurma"
+---
+
 # Muzlu Whey Protein Dondurma
 
 > [!NOTE]

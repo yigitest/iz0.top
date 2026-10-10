@@ -1,3 +1,7 @@
+---
+title: "Lazanya"
+---
+
 # Lazanya
 
 > [!NOTE]

@@ -1,5 +1,5 @@
 ---
-title: Drinks
+title: İçecekler
 weight: 800
 params:
   bookHidden: false
@@ -8,4 +8,4 @@ params:
   bookFlatSection: false
 ---
 
-## Recipes
+## Tarifler

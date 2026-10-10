@@ -1,3 +1,7 @@
+---
+title: "Meksika Fasulyeli Ton Balıklı Salata"
+---
+
 # Meksika Fasulyeli Ton Balıklı Salata
 
 > [!NOTE]

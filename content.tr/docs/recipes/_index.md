@@ -1,5 +1,5 @@
 ---
-title: Recipes
+title: Tarifler
 weight: 100
 params:
   bookHidden: false

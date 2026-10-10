@@ -1,3 +1,7 @@
+---
+title: "Kakaolu Proteinli Dondurma"
+---
+
 # Kakaolu Proteinli Dondurma
 
 > [!NOTE]

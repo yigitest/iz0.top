@@ -1,48 +1,52 @@
-# Faki (Greek Lentil Soup)
+---
+title: "Faki (Yunan Usulü Mercimek Çorbası)"
+---
+
+# Faki (Yunan Usulü Mercimek Çorbası)
 
 > [!NOTE]
-> **Recipe Summary**  
-> A traditional Greek lentil soup featuring brown or green lentils simmered with onion, garlic, celery, plum tomatoes, herbs, and olive oil, finished with red wine vinegar. Serves 10.
+> **Tarif Özeti**  
+> Yeşil mercimeklerin soğan, sarımsak, kereviz sapı, domates, aromatik otlar ve zeytinyağı ile kısık ateşte pişirilip kırmızı şarap sirkesiyle tamamlandığı geleneksel bir Yunan mercimek çorbası. 10 kişiliktir.
 
-## Ingredients
+## Malzemeler
 
-| Ingredient | Amount | Notes |
+| Malzeme | Miktar | Notlar |
 | :--- | :--- | :--- |
-| Lentils | 1 lb | Regular green lentils (do not use tiny French Le Puy lentils) |
-| Warm water | ~8 cups | Enough to cover lentils for soaking and cooking |
-| Onion | 1 large | Chopped |
-| Garlic | 2–3 cloves | Chopped |
-| Celery | 2 small or 1 large stalk | Finely chopped |
-| Italian-style plum tomatoes | 5–6 canned | With their juices |
-| Bay leaf | 1 large | |
-| Parsley | 4 sprigs | |
-| Mint, basil, or oregano | To taste | Chopped |
-| Olive oil | 1/3 cup | Good quality |
-| Salt | To taste | Season generously as lentils absorb salt |
-| Black pepper | To taste | Freshly ground |
-| Red wine vinegar | 2 tbsp + extra | 2 tbsp added near end of cooking; extra served on side |
+| Yeşil mercimek | 450 g (1 lb) | Klasik yeşil mercimek (küçük Fransız Puy mercimeği kullanmayın) |
+| Ilık su | ~8 su bardağı | Islatma ve pişirme için mercimeklerin üzerini örtecek kadar |
+| Kuru soğan | 1 adet büyük | Doğranmış |
+| Sarımsak | 2–3 diş | Doğranmış |
+| Kereviz sapı | 2 küçük veya 1 büyük sap | İnce doğranmış |
+| İtalyan erik domates | 5–6 adet konserve | Suyuyla birlikte |
+| Defne yaprağı | 1 adet büyük | |
+| Maydanoz | 4 dal | |
+| Taze nane, fesleğen veya kekik | Damak tadına göre | Kıyılmış |
+| Zeytinyağı | 1/3 su bardağı | Kaliteli sızma zeytinyağı |
+| Tuz | Damak tadına göre | Mercimek tuzu çektiği için cömertçe ekleyin |
+| Karabiber | Damak tadına göre | Taze çekilmiş |
+| Kırmızı şarap sirkesi | 2 yemek kaşığı + servis için | Pişmeye yakın 2 yk eklenir; fazlası yanında servis edilir |
 
-## Instructions
+## Hazırlanışı
 
 {{% steps %}}
-1. ## Soak the Lentils
-   Wash and pick over the lentils. Place them in a soup pot and cover with warm water (about 8 cups). Let stand for 1 hour.
+1. ## Mercimekleri Islatın
+   Mercimekleri ayıklayıp yıkayın. Çorba tenceresine alıp üzerini ılık suyla (yaklaşık 8 su bardağı) örtün. 1 saat bekletin.
 
-2. ## Initial Simmer
-   Bring the pot of lentils and water to a boil. Add the chopped onion, garlic, celery, plum tomatoes with their juices, and the bay leaf. Cover the pot and simmer for 1 hour.
+2. ## İlk Kaynatma
+   Mercimek ve su karışımını kaynamaya bırakın. Doğranmış soğan, sarımsak, kereviz sapı, suyuyla birlikte domatesler ve defne yaprağını ekleyin. Tencerenin kapağını kapatıp kısık ateşte 1 saat pişirin.
 
-3. ## Add Oil, Herbs, and Seasonings
-   Stir in the parsley, chopped herbs (mint, basil, or oregano), and olive oil. Season with salt and freshly ground black pepper. Cover and continue simmering for another 1.5 hours (stirring occasionally) until the soup is very thick and the lentils are tender. Stir in 2 tablespoons of red wine vinegar toward the end of cooking.
+3. ## Yağ, Yeşillik ve Baharatları Ekleyin
+   Kıyılmış maydanozu, taze otları (nane, fesleğen veya kekik) ve zeytinyağını tencereye ekleyin. Tuz ve taze çekilmiş karabiber ilave edin. Kapağı kapalı olarak, mercimekler iyice yumuşayıp çorba koyulaşana kadar ara sıra karıştırarak 1.5 saat daha pişirin. Pişmenin sonuna doğru 2 yemek kaşığı kırmızı şarap sirkesini karıştırın.
 
-4. ## Serve
-   Serve hot with additional red wine vinegar on the side.
+4. ## Servis Edin
+   Çorbayı sıcak olarak, yanında ilave kırmızı şarap sirkesi ile servis edin.
 {{% /steps %}}
 
-## Useful Notes
+## Şefin Notları
 
 > [!TIP]
-> **Serving Suggestion**  
-> Pair this soup with feta cheese, olives, a fresh salad, crusty bread, and wine.
+> **Servis Önerisi**  
+> Bu çorba beyaz peynir (feta), zeytin, taze salata, kıtır ekmek ve şarap ile mükemmel uyum sağlar.
 
-- **Texture Adjustment**: After the first hour of cooking, the soup will appear thick and stodgy, but it loosens up once the olive oil is stirred in.
-- **Batching & Freezing**: This recipe yields a large quantity (10 servings). It freezes very well if you want to store half for later.
+- **Kıvam Ayarı**: İlk bir saatlik pişirmeden sonra çorba oldukça koyu ve katı görünecektir, ancak zeytinyağı eklendikten sonra kıvamı dengelenir.
+- **Porsiyonlama ve Dondurma**: Bu tarif geniş porsiyonludur (10 kişilik). Yarısını daha sonra tüketmek üzere dondurabilirsiniz; dondurucuda çok iyi muhafaza edilir.

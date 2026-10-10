@@ -1,3 +1,7 @@
+---
+title: "Instant Pot Fransız Soğan Çorbası"
+---
+
 # Instant Pot Fransız Soğan Çorbası
 
 > [!NOTE]

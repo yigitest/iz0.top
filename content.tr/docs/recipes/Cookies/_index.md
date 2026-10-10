@@ -1,5 +1,5 @@
 ---
-title: Cookies
+title: Kurabiyeler
 weight: 103
 params:
   bookHidden: false

@@ -1,3 +1,7 @@
+---
+title: "Yeşil Mercimekli Basmati Pilavı (Instant Pot)"
+---
+
 # Yeşil Mercimekli Basmati Pilavı (Instant Pot)
 
 > [!NOTE]

@@ -1,3 +1,7 @@
+---
+title: "Wok Tavasında Teriyaki Soslu Tavuk"
+---
+
 # Wok Tavasında Teriyaki Soslu Tavuk
 
 > [!NOTE]

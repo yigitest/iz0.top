@@ -1,3 +1,7 @@
+---
+title: "Patatas Bravas Benzeri Sos"
+---
+
 # Patatas Bravas Benzeri Sos
 
 > [!NOTE]

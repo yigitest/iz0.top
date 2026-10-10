@@ -1,3 +1,7 @@
+---
+title: "Amerikan Usulü Pankek (Jamie Oliver)"
+---
+
 # Amerikan Usulü Pankek (Pancakes USA Style - Jamie Oliver)
 
 > [!NOTE]

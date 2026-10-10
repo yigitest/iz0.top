@@ -1,3 +1,7 @@
+---
+title: "Korova Kurabiyesi"
+---
+
 # Korova Kurabiyesi
 
 > [!NOTE]

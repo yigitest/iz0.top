@@ -1,3 +1,7 @@
+---
+title: "Sarışın Kek (Blondie)"
+---
+
 # Sarışın Kek (Blondie)
 
 > [!NOTE]

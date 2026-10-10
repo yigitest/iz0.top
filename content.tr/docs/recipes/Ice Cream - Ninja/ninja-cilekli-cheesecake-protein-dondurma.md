@@ -1,3 +1,7 @@
+---
+title: "Ninja Çilekli Cheesecake Protein Dondurma"
+---
+
 # Ninja Çilekli Cheesecake Protein Dondurma
 
 > [!NOTE]

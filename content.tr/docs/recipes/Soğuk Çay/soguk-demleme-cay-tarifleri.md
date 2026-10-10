@@ -1,3 +1,7 @@
+---
+title: "Soğuk Demleme Çay Tarifleri"
+---
+
 # Soğuk Demleme Çay Tarifleri
 
 > [!NOTE]

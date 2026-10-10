@@ -1,44 +1,48 @@
-# Soupe à l'Ail (Garlic Soup)
+---
+title: "Sarımsak Çorbası (Soupe à l'Ail)"
+---
+
+# Soupe à l'Ail (Sarımsak Çorbası)
 
 > [!NOTE]
-> **Recipe Summary**  
-> A classic French garlic soup made by simmering 36 garlic cloves into a fragrant broth with broken angel hair pasta, poached egg white clouds, and a rich egg yolk and vinegar liaison. Serves 4 to 6.
+> **Tarif Özeti**  
+> 36 diş sarımsağın aromatik bir et suyunda demlenmesi, tel şehriye, çırpılmış yumurta akı bulutları ve zengin yumurta sarısı-sirke terbiyesi ile hazırlanan klasik bir Fransız sarımsak çorbası. 4-6 kişiliktir.
 
-## Ingredients
+## Malzemeler
 
-| Ingredient | Amount | Notes |
+| Malzeme | Miktar | Notlar |
 | :--- | :--- | :--- |
-| Unsalted butter | 1 tbsp | |
-| Olive oil | 2 tsp | |
-| Garlic | 2 large heads (~36 cloves) | Separated into cloves, peeled, and coarsely chopped |
-| Water | 8 cups | |
-| Salt | To taste (~1 tsp) | |
-| Black pepper | To taste | Freshly ground |
-| Vermicelli or angel hair pasta | 3 oz | Broken into small pieces |
-| Eggs | 6 large | Separated (yolks and whites) |
-| White wine vinegar | 3 tbsp | |
+| Tuzsuz tereyağı | 1 yemek kaşığı | |
+| Zeytinyağı | 2 tatlı kaşığı | |
+| Sarımsak | 2 büyük baş (~36 diş) | Dişlerine ayrılmış, soyulmuş ve iri doğranmış |
+| Su | 8 su bardağı | |
+| Tuz | Damak tadına göre (~1 tatlı kaşığı) | |
+| Karabiber | Damak tadına göre | Taze çekilmiş |
+| Tel şehriye veya melek saçı makarna | 85 g (3 oz) | Küçük parçalara kırılmış |
+| Yumurta | 6 adet büyük | Sarıları ve beyazları ayrılmış |
+| Beyaz şarap sirkesi | 3 yemek kaşığı | |
 
-## Instructions
+## Hazırlanışı
 
 {{% steps %}}
-1. ## Sauté Garlic and Simmer Broth
-   Melt the unsalted butter (1 tbsp) and olive oil (2 tsp) in a large saucepan over medium-high heat. Add the chopped garlic (2 heads) and cook while stirring for about 1 minute—do not allow the garlic to brown. Add water (8 cups), season with salt (~1 tsp) and black pepper, bring to a boil, cover, reduce heat, and simmer for 15 minutes.
+1. ## Sarımsakları Soteleyin ve Suyu Kaynatın
+   Tuzsuz tereyağını (1 yk) ve zeytinyağını (2 tatlı kaşığı) geniş bir tencerede orta-yüksek ateşte eritin. Doğranmış sarımsakları (2 baş) ekleyin ve karıştırarak yaklaşık 1 dakika pişirin; sarımsakların kızarıp kahverengileşmesine izin vermeyin. Suyu (8 su bardağı), tuzu (~1 tatlı kaşığı) ve karabiberi ekleyin. Kaynamaya bırakın, kapağını kapatın, ateşi kısın ve 15 dakika pişirin.
 
-2. ## Puree Garlic
-   Strain the cooking liquid into a bowl and reserve the cooked garlic. Transfer the garlic and 1/2 cup of the strained liquid into a blender or food processor. Blend to a fine, smooth puree.
+2. ## Sarımsakları Püre Yapın
+   Pişirme suyunu bir kaba süzün ve sarımsakları ayırın. Sarımsakları ve süzülen suyun yarım su bardağını blendere aktarın. Pürüzsüz ve ince bir püre haline gelene kadar çekin.
 
-3. ## Cook Pasta
-   Return the remaining strained liquid to the saucepan, stir in the garlic puree, and bring back to a boil. Add the broken vermicelli or angel hair pasta (3 oz), stir, and cook for about 3 minutes until just tender. Do not overcook.
+3. ## Şehriyeyi Pişirin
+   Kalan süzülmüş suyu tekrar tencereye alın, sarımsak püresini ekleyip karıştırın ve yeniden kaynatın. Kırılmış şehriyeyi (85 g) ekleyip karıştırın ve yumuşayana kadar yaklaşık 3 dakika pişirin. Fazla pişirmeyin.
 
-4. ## Mix Egg Yolks and Vinegar
-   While the pasta cooks, blend the 6 egg yolks and white wine vinegar (3 tbsp) together in a small bowl until smooth.
+4. ## Terbiyeyi Hazırlayın
+   Şehriye pişerken, 6 yumurta sarısını ve beyaz şarap sirkesini (3 yk) küçük bir kapta pürüzsüz olana kadar çırpın.
 
-5. ## Poach Whites and Finish Soup
-   Turn off the heat under the saucepan. Gently drop in the 6 egg whites and cover the pan immediately without stirring so they form soft, cloud-like ribbons. Once the whites are fully cooked, add the egg yolk mixture and stir very slowly to incorporate. Taste and adjust seasoning with additional salt and pepper if needed.
+5. ## Akları Pişirin ve Çorbayı Tamamlayın
+   Tencerenin altını kapatın. 6 yumurta akını tencereye yavaşça bırakın ve karıştırmadan kapağını hemen kapatın; bu sayede aklar bulut gibi yumuşak şeritler halinde pişecek. Aklar tamamen piştiğinde yumurta sarısı karışımını ekleyin ve yedirmek için çok yavaşça karıştırın. Tadını kontrol edin, gerekirse ilave tuz ve karabiber ekleyin.
 {{% /steps %}}
 
-## Useful Notes
+## Şefin Notları
 
 > [!TIP]
-> **Flavor & Seasonal Tip**  
-> The egg yolks enrich and soften the broth, while the vinegar brightens and sharpens the garlic profile. For the best flavor, prepare this soup in late spring when fresh, soil-harvested garlic is available at local markets.
+> **Lezzet ve Mevsim Önerisi**  
+> Yumurta sarıları çorbanın suyunu zenginleştirip yumuşatırken sirke sarımsak lezzetini canlandırır ve belirginleştirir. En iyi lezzet için bu çorbayı ilkbahar sonlarında, taze sarımsak çıktığında hazırlayın.

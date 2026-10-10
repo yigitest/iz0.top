@@ -1,3 +1,7 @@
+---
+title: "Yüksek Lifli Yeşil Smoothie"
+---
+
 # Yüksek Lifli Yeşil Smoothie
 
 > [!NOTE]

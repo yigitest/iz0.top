@@ -1,52 +1,56 @@
-# Chocolate Chip Butter Cookies
+---
+title: "Çikolata Parçacıklı Tereyağlı Kurabiye"
+---
+
+# Çikolata Parçacıklı Tereyağlı Kurabiye
 
 > [!NOTE]
-> **Recipe Summary**  
-> Soft-centered chocolate chip butter cookies made with creamed butter, brown and white sugar, and folded chocolate chunks or chips. Rested on the hot baking tray for a chewy, tender texture.
+> **Tarif Özeti**  
+> Çırpılmış tereyağı, esmer ve beyaz şeker ile çikolata parçalarının harmanlanmasıyla hazırlanan, içi yumuşak dışı kıtır tereyağlı kurabiye. Sakızımsı ve yumuşak doku için fırından çıktıktan sonra sıcak tepside dinlendirilir.
 
-## Ingredients
+## Malzemeler
 
-| Ingredient | Amount | Notes |
+| Malzeme | Miktar | Notlar |
 | :--- | :--- | :--- |
-| Butter | 125 g | Softened |
-| Brown sugar | 75 g | See notes for brown sugar substitution |
-| White sugar | 50 g | |
-| Egg | 1 | |
-| Vanilla | - | To taste / extract |
-| Baking soda | ½ tsp | |
-| Baking powder | ¼ tsp | |
-| Salt | ½ tsp | |
-| Flour | 180–190 g | |
-| Chocolate | 100–125 g | Chunks or chips |
+| Tereyağı | 125 g | Oda sıcaklığında yumuşamış |
+| Esmer şeker | 75 g | Esmer şeker alternatifi için notlara bakınız |
+| Beyaz şeker | 50 g | |
+| Yumurta | 1 adet | |
+| Vanilya | - | Damak tadına göre / vanilya özütü |
+| Karbonat | ½ çay kaşığı | |
+| Kabartma tozu | ¼ çay kaşığı | |
+| Tuz | ½ çay kaşığı | |
+| Un | 180–190 g | |
+| Çikolata | 100–125 g | Parça çikolata veya damla çikolata |
 
-## Instructions
+## Hazırlanışı
 
 {{% steps %}}
-1. ## Cream Butter and Sugars
-   Cream the soft butter, brown sugar (75 g), and white sugar (50 g) together for about 2 minutes until well combined.
+1. ## Yağ ve Şekerleri Çırpın
+   Yumuşamış tereyağını, esmer şekeri (75 g) ve beyaz şekeri (50 g) yaklaşık 2 dakika homojen bir krema kıvamı alana kadar çırpın.
 
-2. ## Add Wet Ingredients
-   Mix in the egg and vanilla.
+2. ## Sıvı Malzemeleri Ekleyin
+   Yumurta ve vanilyayı ekleyip karıştırın.
 
-3. ## Fold Dry Ingredients and Chocolate
-   Gently fold in the flour (180–190 g), baking soda (½ tsp), baking powder (¼ tsp), salt (½ tsp), and chocolate (100–125 g) until just combined into a dough.
+3. ## Kuru Malzemeleri ve Çikolatayı Ekleyin
+   Unu (180–190 g), karbonatı (½ çay kaşığı), kabartma tozunu (¼ çay kaşığı), tuzu (½ çay kaşığı) ve çikolata parçalarını (100–125 g) ekleyip hamur toparlanana kadar nazikçe karıştırın.
 
-4. ## Chill Dough
-   Chill the cookie dough in the refrigerator for 30 minutes.
+4. ## Hamuru Dinlendirin
+   Kurabiye hamurunu buzdolabında 30 dakika dinlendirin.
 
-5. ## Shape and Bake
-   Preheat the oven to 180°C conventional (or 170°C fan). Form the dough into roughly walnut-sized balls and place them on a baking tray. Do not flatten them much. Bake for 10–12 minutes.
+5. ## Şekil Verin ve Pişirin
+   Fırını alt-üst 180°C'ye (fanlı 170°C) ısıtın. Hamurdan ceviz büyüklüğünde toplar yuvarlayıp fırın tepsisine dizin. Üzerlerine çok fazla bastırmayın. 10–12 dakika pişirin.
 
-6. ## Carryover Resting
-   Remove the cookies from the oven when the edges are set but the centers still look slightly underdone. Leave them on the warm tray for 10 minutes to finish cooking.
+6. ## Tepside Dinlendirme
+   Kurabiyelerin kenarları tutmuş ancak ortaları henüz hafif yumuşakken fırından alın. Pişmenin sıcaklıkla tamamlanması için sıcak tepside 10 dakika dinlendirin.
 {{% /steps %}}
 
-## Useful Notes
+## Şefin Notları
 
 > [!TIP]
-> **Soft Center Secret**  
-> Pulling the cookies out when the centers look slightly underdone and letting them rest on the hot tray for 10 minutes is the single biggest trick for getting a soft, chewy center instead of a dry cookie.
+> **Yumuşak İç Kıvamın Sırrı**  
+> Kurabiyeleri ortaları hafif pişmemiş görünürken fırından çıkarmak ve sıcak tepside 10 dakika bekletmek, kuru bir kurabiye yerine içi yumuşak ve sakızımsı (chewy) bir doku elde etmenin en önemli püf noktasıdır.
 
 > [!NOTE]
-> **Brown Sugar Substitution**  
-> If brown sugar is unavailable, substitute with 120 g white sugar total, use 185 g flour, and retain the salt and baking soda amounts. The cookies will turn out crisper and less chewy, but still very delicious.
+> **Esmer Şeker Alternatifi**  
+> Esmer şeker bulunamazsa toplam 120 g beyaz şeker, 185 g un kullanılabilir; tuz ve karbonat miktarları aynı tutulur. Kurabiyeler daha çıtır olur ancak yine de çok lezzetli sonuç verir.

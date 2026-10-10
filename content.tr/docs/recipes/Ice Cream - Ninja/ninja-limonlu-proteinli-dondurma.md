@@ -1,3 +1,7 @@
+---
+title: "Ninja Limonlu Proteinli Dondurma"
+---
+
 # Ninja Limonlu Proteinli Dondurma
 
 > [!info] Tarif Özeti

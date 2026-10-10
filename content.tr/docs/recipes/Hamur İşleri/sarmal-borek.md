@@ -1,3 +1,7 @@
+---
+title: "Sarmal Börek"
+---
+
 # Sarmal Börek
 
 > [!NOTE]

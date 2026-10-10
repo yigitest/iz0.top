@@ -1,5 +1,5 @@
 ---
-title: Soups
+title: Çorbalar
 weight: 250
 params:
   bookHidden: false
