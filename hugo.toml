@@ -31,7 +31,22 @@ enableRobotsTXT = true
   page = ['html', 'txt']
   section = ['html', 'txt']
 
- [menu]
+# Multi-lingual mode config
+# There are different options to translate files
+# See https://gohugo.io/content-management/multilingual/#translation-by-filename
+# And https://gohugo.io/content-management/multilingual/#translation-by-content-directory
+[languages]
+[languages.tr]
+  label = 'Türkçe'
+  contentDir = 'content.tr'
+  weight = 1
+
+[languages.en]
+  label = 'English'
+  contentDir = 'content.en'
+  weight = 2
+
+[menu]
  [[menu.home]]
    name = 'Docs'
    pageRef = '/docs/welcome'
