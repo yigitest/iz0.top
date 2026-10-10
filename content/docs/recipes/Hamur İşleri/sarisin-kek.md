@@ -4,6 +4,9 @@
 > **Tarif Özeti**  
 > Esmer şeker ve tereyağının karamelimsi uyumuyla sakızımsı (chewy) dokusunu kazanan, üzeri hafif kabuklu, içi ise nemli kalan nefis bir kek. Normalde hiçbir şeye gerek yok deyip burun kıvıran annemin en sevdiği kektir; bize her geldiğinde mutlaka yaptırır, dönerken de yanında götürmek için bir tane daha fırına attırır!
 
+![Sarışın Kek](/images/recipes/sarisin-kek.jpg)
+
+
 ## Malzemeler
 
 | Malzeme | Miktar | Notlar |
