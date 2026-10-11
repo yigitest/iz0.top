@@ -6,6 +6,5 @@ params:
   bookToC: true
   bookCollapseSection: false
   bookFlatSection: false
+  bookIcon: sauce
 ---
-
-## Recipes
