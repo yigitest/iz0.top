@@ -8,6 +8,8 @@ title: Baked Bonito with Vegetables
 > **Recipe Summary**  
 > Sliced Atlantic bonito baked over a flavorful bed of sliced potatoes and onions, seasoned with tomato sauce, olive oil, lemon, and bay leaves for a tender, aromatic seafood meal.
 
+![Baked Bonito with Vegetables](/images/recipes/firinda-sebzeli-palamut.jpg)
+
 ## Ingredients
 
 | Ingredient | Amount | Notes |

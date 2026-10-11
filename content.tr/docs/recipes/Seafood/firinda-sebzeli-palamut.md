@@ -8,6 +8,8 @@ title: "Fırında Sebzeli Palamut"
 > **Tarif Özeti**  
 > Halka doğranmış patates ve soğan yatağında, domates sosu, zeytinyağı, limon ve defne yaprağı aromasıyla fırınlanan yumuşacık ve lezzetli bir balık yemeği.
 
+![Fırında Sebzeli Palamut](/images/recipes/firinda-sebzeli-palamut.jpg)
+
 ## Malzemeler
 
 | Malzeme | Miktar | Notlar |
